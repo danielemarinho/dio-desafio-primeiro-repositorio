@@ -1,10 +1,22 @@
 
-Links importantes
+## Links importantes
 
-*Sintaxe Markdown: 
-https://www.markdownguide.org/basic-syntax/
+ - Sintaxe Markdown: https://www.markdownguide.org/basic-syntax/
 
-*Download GIT para Windows
-https://git-scm.com/download/win
+ - Download GIT para Windows: https://git-scm.com/download/win
 
 
+## Comandos principais ensinado no curso GIT da DIO
+ - git init
+ - git add
+ - git commit
+ - git config --global user.name
+ - git config --global user.email
+ - git commit -m "<mensagem>" (commit inicial, informar entre aspas a descrição após o -m)
+ - git status
+ - git add * (adiciona todas as alteracoes)
+ - git config --list
+ - git config --global --unset <o que deseja apagar>
+ - git push origin master (enviar, empurrar para a nuvem - github)
+ - git pull origin master (puxar, baixar da nuvem)
+ - git clone <colar url>
