@@ -1,0 +1,8 @@
+
+Links importantes
+
+*Sintaxe Markdown: 
+https://www.markdownguide.org/basic-syntax/
+
+*Download GIT para Windows
+https://git-scm.com/download/win
