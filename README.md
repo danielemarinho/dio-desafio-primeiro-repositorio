@@ -29,14 +29,18 @@ Repositório criado para o desafio do projeto e evolução do meu progresso.
     - Primeiros passos para desenvolvimento web;
     
     - Introdução a criação de websites com HTML5 e CSS3.
+      
+      
+    
+    ****Módulo III - Javascript (01 atividades.)**
+    
+    * IDE Instalação e Configuração (Visual Studio Code);
     
     
   
   - EM CURSO
     
     ****Módulo III - Javascript (12 atividades.)**
-    
-    - IDE Instalação e Configuração (Visual Studio Code);
     
     - Introdução ao Javascript;-Sintaxe Básica em Javascript;
     
